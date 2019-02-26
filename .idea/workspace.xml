@@ -2,284 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4085c578-7988-43d0-b387-6bd5edd66796" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acronym/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acronym/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acronym/acronym.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acronym/acronym_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allergies/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allergies/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allergies/allergies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allergies/allergies_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anagram/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anagram/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anagram/anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anagram/anagram_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armstrong-numbers/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armstrong-numbers/.idea/hello-world.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armstrong-numbers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armstrong-numbers/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armstrong-numbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armstrong-numbers/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armstrong-numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armstrong-numbers/armstrong_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armstrong-numbers/armstrong_numbers_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atbash-cipher/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atbash-cipher/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atbash-cipher/atbash_cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atbash-cipher/atbash_cipher_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beer-song/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beer-song/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beer-song/beer_song.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beer-song/beer_song_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bob/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bob/.idea/bob.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bob/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bob/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bob/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bob/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bob/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bob/bob.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bob/bob_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-store/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-store/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-store/book_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-store/book_store_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circular-buffer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circular-buffer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circular-buffer/circular_buffer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circular-buffer/circular_buffer_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clock/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clock/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clock/clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clock/clock_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crypto-square/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crypto-square/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crypto-square/crypto_square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crypto-square/crypto_square_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/difference-of-squares/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/difference-of-squares/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/difference-of-squares/difference_of_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/difference-of-squares/difference_of_squares_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercism" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flatten-array/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flatten-array/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flatten-array/flatten_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flatten-array/flatten_array_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gigasecond/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gigasecond/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gigasecond/gigasecond.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gigasecond/gigasecond_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grade-school/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grade-school/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grade-school/grade_school.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grade-school/grade_school_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grains/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grains/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grains/grains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grains/grains_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/.idea/hamming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/.idea/inspectionProfiles/Project_Default.xml___jb_tmp___" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/hamming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming/hamming_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world/.idea/hello-world.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world/hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world/hello_world_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high-scores/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high-scores/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high-scores/high_scores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high-scores/high_scores_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isbn-verifier/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isbn-verifier/.idea/isbn-verifier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isbn-verifier/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isbn-verifier/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isbn-verifier/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isbn-verifier/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isbn-verifier/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isbn-verifier/isbn_verifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isbn-verifier/isbn_verifier_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isogram/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isogram/.idea/isogram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isogram/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isogram/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isogram/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isogram/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isogram/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isogram/isogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isogram/isogram_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kindergarten-garden/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kindergarten-garden/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kindergarten-garden/kindergarten_garden.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kindergarten-garden/kindergarten_garden_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largest-series-product/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largest-series-product/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largest-series-product/largest_series_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largest-series-product/largest_series_product_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leap/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leap/.idea/leap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leap/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leap/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leap/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leap/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leap/leap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leap/leap_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luhn/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luhn/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luhn/luhn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luhn/luhn_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markdown/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markdown/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markdown/markdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markdown/markdown_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix/matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix/matrix_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/meetup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/meetup_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nth-prime/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nth-prime/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nth-prime/nth_prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nth-prime/nth_prime_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram/.idea/pangram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram/pangram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram/pangram_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perfect-numbers/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perfect-numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perfect-numbers/perfect_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perfect-numbers/perfect_numbers_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pig-latin/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pig-latin/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pig-latin/pig_latin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pig-latin/pig_latin_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythagorean-triplet/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythagorean-triplet/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythagorean-triplet/pythagorean_triplet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythagorean-triplet/pythagorean_triplet_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raindrops/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raindrops/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raindrops/raindrops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raindrops/raindrops_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-string/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-string/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-string/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-string/.idea/reverse-string.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-string/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-string/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-string/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-string/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-string/reverse_string_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rna-transcription/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rna-transcription/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rna-transcription/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rna-transcription/.idea/rna-transcription.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rna-transcription/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rna-transcription/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rna-transcription/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rna-transcription/rna_transcription.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rna-transcription/rna_transcription_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-name/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-name/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-name/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-name/.idea/robot-name.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-name/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-name/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-name/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-name/robot_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-name/robot_name_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-simulator/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-simulator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-simulator/robot_simulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot-simulator/robot_simulator_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rotational-cipher/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rotational-cipher/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rotational-cipher/rotational_cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rotational-cipher/rotational_cipher_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-length-encoding/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-length-encoding/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-length-encoding/run_length_encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-length-encoding/run_length_encoding_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/say/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/say/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/say/say.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/say/say_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrabble-score/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrabble-score/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrabble-score/scrabble_score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrabble-score/scrabble_score_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret-handshake/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret-handshake/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret-handshake/secret_handshake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret-handshake/secret_handshake_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/series/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/series/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/series/series.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/series/series_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sieve/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sieve/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sieve/sieve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sieve/sieve_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/space-age/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/space-age/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/space-age/space_age.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/space-age/space_age_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sublist/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sublist/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sublist/sublist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sublist/sublist_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum-of-multiples/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum-of-multiples/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum-of-multiples/sum_of_multiples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum-of-multiples/sum_of_multiples_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twelve-days/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twelve-days/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twelve-days/twelve_days.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twelve-days/twelve_days_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two-fer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two-fer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two-fer/two_fer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two-fer/two_fer_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word-count/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word-count/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word-count/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word-count/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word-count/.idea/word-count.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word-count/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word-count/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word-count/word_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word-count/word_count_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yacht/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yacht/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yacht/yacht.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yacht/yacht_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -311,16 +34,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nth-prime/nth_prime.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nth-prime/.exercism/metadata.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -1832,6 +1555,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/nth-prime/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nth-prime/.exercism/metadata.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/nth-prime/nth_prime_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1842,23 +1576,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nth-prime/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nth-prime/nth_prime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nth-prime/.exercism/metadata.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
