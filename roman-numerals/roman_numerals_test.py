@@ -24,8 +24,10 @@ class RomanNumeralsTest(unittest.TestCase):
         402: 'CDII',
         575: 'DLXXV',
         911: 'CMXI',
-        # 1024: 'MXXIV',
-        # 3000: 'MMM',
+        1024: 'MXXIV',
+        3000: 'MMM',
+        3002: 'MMMII',
+        3520: 'MMMDXX'
     }
 
     def test_numerals(self):
