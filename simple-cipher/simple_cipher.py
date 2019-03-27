@@ -1,6 +1,6 @@
 class Cipher(object):
     def __init__(self, key=None):
-        pass
+        self.key = key
 
     def encode(self, text):
         return text
